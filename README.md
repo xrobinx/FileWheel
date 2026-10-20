@@ -1,8 +1,22 @@
-# FileWheel
+<img width="750" height="425" alt="image" src="https://github.com/user-attachments/assets/1122d3a0-619f-41e6-938b-52170684d493" /># FileWheel
 
 Drag a file, hold Shift, and choose an action from a desktop wheel. FileWheel is a Windows x64 app written in C# with WPF for converting and editing images, PDFs, documents, audio, video, and archives. Available actions depend on the file type and installed engines.
+
+## Video preview
 <img width="720" height="404" alt="Image" src="https://github.com/user-attachments/assets/e40620eb-80d0-48a6-8924-e7855403adfe" />
+
+## Photo Options 
+<img width="579" height="437" alt="Image" src="https://github.com/user-attachments/assets/53fc66aa-f694-4b99-b710-6f8156ffb704" />
+<img width="698" height="452" alt="Image" src="https://github.com/user-attachments/assets/f40e6578-9147-4ed0-9853-dd64d2f6ad6c" />
+
+## More options 
+<img width="750" height="425" alt="Image" src="https://github.com/user-attachments/assets/31a956ed-643e-4e85-b655-01ed6ba58e4d" />
+
+## Share options 
+<img width="575" height="363" alt="Image" src="https://github.com/user-attachments/assets/9e235284-f7eb-4487-a1e1-04517841d671" />
+<img width="580" height="627" alt="Image" src="https://github.com/user-attachments/assets/3c021f3b-bcfd-4429-905d-76941b3318a1" />
 ## Download
+
 
 Download the Windows ZIP from [Releases](https://github.com/xrobinx/FileWheel/releases/latest), extract it, and run `FileWheel.exe`. The public package includes the app and third-party notices. Install FFmpeg separately to enable audio and video features; see below.
 

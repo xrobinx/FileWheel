@@ -1,7 +1,7 @@
 # FileWheel
 
 Drag a file, hold Shift, and choose an action from a desktop wheel. FileWheel is a Windows x64 app written in C# with WPF for converting and editing images, PDFs, documents, audio, video, and archives. Available actions depend on the file type and installed engines.
-
+<img width="720" height="404" alt="Image" src="https://github.com/user-attachments/assets/e40620eb-80d0-48a6-8924-e7855403adfe" />
 ## Download
 
 Download the Windows ZIP from [Releases](https://github.com/xrobinx/FileWheel/releases/latest), extract it, and run `FileWheel.exe`. The public package includes the app and third-party notices. Install FFmpeg separately to enable audio and video features; see below.

@@ -1,4 +1,3 @@
-<img width="750" height="425" alt="image" src="https://github.com/user-attachments/assets/1122d3a0-619f-41e6-938b-52170684d493" /># FileWheel
 
 Drag a file, hold Shift, and choose an action from a desktop wheel. FileWheel is a Windows x64 app written in C# with WPF for converting and editing images, PDFs, documents, audio, video, and archives. Available actions depend on the file type and installed engines.
 
